@@ -1,0 +1,14 @@
+# Exclude large data files
+sales.csv
+purchases.csv
+
+# Exclude large files inside data folder
+vendor performane data/sales.csv
+vendor performane data/purchases.csv
+
+# Jupyter temp files
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
