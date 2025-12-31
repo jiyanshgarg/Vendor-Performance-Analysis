@@ -1,9 +1,28 @@
 # **Executive Summary ~ Vendor Performance Analysis**
 
-## **Business Context**
-Effective inventory and vendor management are critical to sustaining profitability in retail operations. This analysis evaluates vendor and brand performance across sales, profitability, procurement efficiency, and inventory health to identify margin leakage, operational risk, and cost optimization opportunities.
+## **Business Problem**
+Retail profitability is heavily influenced by vendor pricing, freight costs, lead times, and inventory efficiency.
 
-The study integrates sales, purchases, vendor invoices, and inventory data to provide a holistic, end-to-end view of vendor performance.
+The objective of this analysis is to evaluate vendor performance and identify:
+- Cost inefficiencies
+- Vendor dependency risks
+- Profitability variance across vendors
+
+The insights aim to support better vendor negotiations, inventory optimization, and sourcing decisions.
+
+## **Clear Objective**
+- Identify top and underperforming vendors by cost and profitability
+- Analyze unit cost variation across vendors
+- Evaluate impact of freight percentage on vendor economics
+- Assess lead time consistency and operational risk
+- Highlight vendors contributing to high cost volatility
+
+## **Tools & Skills Used**
+- Python (Polars, Pandas, NumPy)
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Aggregation & Group-level Analysis
+- Business Metrics
 
 ## **Key Findings**
 - ### *Widespread Margin Erosion at Brand Level*
